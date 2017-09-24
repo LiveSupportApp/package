@@ -1,5 +1,5 @@
 {
-  "name": "package-name",
+  "name": "sample-package",
   "version": "1.0.0",
   "description": "The sample package.",
   "main": "index.js",
