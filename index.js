@@ -8,6 +8,8 @@ class Index {
       height: 200,
       alwaysOnTop: true,
       show: false,
+      frame: false,
+      transparent: true,
     })
     this.win.loadURL(path.join(__dirname, 'index.html'))
   }

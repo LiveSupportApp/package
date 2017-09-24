@@ -5,20 +5,33 @@ Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSu
 This README.md is not this repo description but this branch description.
 If you want to see this repo description see [README.md](https://github.com/LiveSupportApp/package/blob/master/README.md) in master branch
 
+## Overview
+
+- Frontmost view
+- Semitransparent
+- Can drag to move
+- Can resize
+- Scrolls down
+- Can not user scrolls (Style and drag area issue, Please idea!)
+
 ## Description
 
+This package is default style package for LiveSupport.
+
+If you have a better design or idea please post a pull request or issue!
+
 ## Demo
+
+
 
 ## Requirement
 
 - jQuery ^3.2.1
 
 
-## Usage
-
 ## Contribution
 
-1. [Fork](https://github.com/LiveSupportApp/package/fork) it.
+1. Fork it. [https://github.com/LiveSupportApp/package/fork](https://github.com/LiveSupportApp/package/fork)
 2. Create your feature branch. `git checkout -b my-new-feature`
 3. Commit your changes. `git commit -am 'Add some feature'`
 4. Push to the branch. `git push origin my-new-feature`
