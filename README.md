@@ -9,7 +9,7 @@ Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSu
 | ---------------------------------------- | ---------------------------------------- |
 | [master](https://github.com/LiveSupportApp/package/tree/master) | The sample package.                      |
 | [default](https://github.com/LiveSupportApp/package/tree/default) | The default package.                     |
-| [niconico](https://github.com/LiveSupportApp/package/tree/niconico) | The package to view message live Niconico. |
+| [niconico](https://github.com/LiveSupportApp/package/tree/niconico) | The package to view message like Niconico. |
 | [reading](https://github.com/LiveSupportApp/package/tree/reading) | The package to read message.             |
 | [view](https://github.com/LiveSupportApp/package/tree/view) | The package to view message for broadcaster. |
 | [store](https://github.com/LiveSupportApp/package/tree/store) | The package to store message.            |
