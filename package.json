@@ -1,11 +1,13 @@
 {
   "name": "niconico",
   "version": "1.0.0",
-  "description": "The package to view chat/comment like Niconico.",
+  "description": "The package to view message like Niconico.",
   "main": "index.js",
   "author": "yuta0801",
   "license": "MIT",
   "dependencies": {
-    "nicojs": "yuta0801/nicoJS#forLiveSupport"
+    "electron": "^1.7.8",
+    "nicojs": "github:LiveSupportApp/nicoJS#forLiveSupport",
+    "path": "^0.12.7"
   }
 }
