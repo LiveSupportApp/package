@@ -1,0 +1,13 @@
+{
+  "name": "package-name",
+  "version": "1.0.0",
+  "description": "The sample package.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuta0801",
+  "license": "MIT"
+}
