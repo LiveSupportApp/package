@@ -1,7 +1,7 @@
 const path = require('path')
 const {BrowserWindow} = require('electron')
 
-class Main {
+class Index {
   constructor() {
     this.win = new BrowserWindow({
       alwaysOnTop: true,
@@ -18,4 +18,4 @@ class Main {
   }
 }
 
-module.exports = Main
+module.exports = Index
