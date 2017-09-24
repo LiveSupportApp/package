@@ -1,7 +1,7 @@
 const path = require('path')
 const {BrowserWindow} = require('electron')
 
-class Main {
+class Index {
   constructor() {
     this.win = new BrowserWindow({
       width: 600,
@@ -17,4 +17,4 @@ class Main {
   }
 }
 
-module.exports = Main
+module.exports = Index
