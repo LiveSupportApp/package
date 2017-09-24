@@ -1,4 +1,4 @@
-# LiveSupportApp/package
+# LiveSupportApp/package@default
 
 Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSupport) app by branch.
 
