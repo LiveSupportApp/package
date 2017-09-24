@@ -8,11 +8,18 @@ If you want to see this repo description see [README.md](https://github.com/Live
 ## Overview
 
 - Frontmost view
+
 - Semitransparent
+
 - Can drag to move
+
 - Can resize
+
 - Scrolls down
-- Can not user scrolls (Style and drag area issue, Please idea!)
+
+- Can not user scrolls
+
+  _Style and drag area issue, Please idea!_
 
 ## Description
 
@@ -22,7 +29,7 @@ If you have a better design or idea please post a pull request or issue!
 
 ## Demo
 
-
+![Gif image](https://raw.githubusercontent.com/LiveSupportApp/package/default/demo.gif)
 
 ## Requirement
 
