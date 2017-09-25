@@ -1,4 +1,4 @@
-# LiveSupportApp/package@reading
+# LiveSupportApp/package#reading
 
 Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSupport) app by branch.
 
