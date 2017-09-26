@@ -22,28 +22,15 @@ Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSu
    $ cd path/to/LiveSupport/resources/app/packages
    ```
 
-2. Clone what you want use package. *e.g. master branch (Sample package)*
+2. Install. `npm install` *e.g. master branch (Sample package)*
 
    ```
-   $ git clone -b master https://github.com/LiveSupportApp/LiveSupport.git
+   $ npm install LiveSupportApp/LiveSupport#master
    ```
 
-3. Rename to the package name. *e.g. master branch*
+3. Add the package name in LiveSupport app settings. See LiveSupport document. ***coming soon***
 
-   ```
-   $ mv package master
-   ```
-
-4. Install. `npm install`
-
-   ```
-   $ cd package
-   $ npm install
-   ```
-
-5. Add the package name in LiveSupport app settings. See LiveSupport document. ***coming soon***
-
-6. Happy broadcasting!
+4. Happy broadcasting!
 
 ## Contribution
 
@@ -55,8 +42,8 @@ Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSu
 
 ## License
 
-[MIT](https://github.com/LiveSupportApp/package/blob/master/LICENSE)
+[MIT License](https://github.com/LiveSupportApp/package/blob/master/LICENSE)
 
 ## Author
 
-[yuta0801](https://github.com/yuta0801)
+[LiveSupportApp](https://github.com/LiveSupportApp)
