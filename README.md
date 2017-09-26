@@ -29,7 +29,7 @@ If you have a better design or idea please post a pull request or issue!
 
 ## Demo
 
-![Gif image](<http://drive.google.com/uc?export=view&id=0B8InNjPhVcKrbEhHRmNlYUg3bmM)
+![Gif image](https://dl.dropboxusercontent.com/s/9ih819pp5m0o3l3/default.gif)
 
 ## Requirement
 
