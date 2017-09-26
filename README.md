@@ -18,7 +18,7 @@ This package is to view message live Niconico for LiveSupport.
 
 ## Demo
 
-![Gif image](https://raw.githubusercontent.com/LiveSupportApp/package/niconico/demo.gif)
+![Gif image](https://dl.dropboxusercontent.com/s/xezg25hihralubt/niconico.gif)
 
 *The actual frame rate is 30fps.*
 
