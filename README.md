@@ -29,7 +29,7 @@ If you have a better design or idea please post a pull request or issue!
 
 ## Demo
 
-![Gif image](https://raw.githubusercontent.com/LiveSupportApp/package/default/demo.gif)
+![Gif image](<http://drive.google.com/uc?export=view&id=0B8InNjPhVcKrbEhHRmNlYUg3bmM)
 
 ## Requirement
 
