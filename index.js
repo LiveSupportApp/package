@@ -1,8 +1,10 @@
 const path = require('path')
 const {BrowserWindow} = require('electron')
+const {EventEmitter} = require('events')
 
-class Index {
+class Index extends EventEmitter {
   constructor() {
+    super()
     this.win = new BrowserWindow({
       width: 600,
       height: 200,
@@ -12,10 +14,9 @@ class Index {
       transparent: true,
     })
     this.win.loadURL(path.join(__dirname, 'index.html'))
-  }
-
-  message(item) {
-    this.win.webContents.send('message', item)
+    this.on('message', data => {
+      this.win.webContents.send('message', data)
+    })
   }
 }
 
