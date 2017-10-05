@@ -1,10 +1,12 @@
-class Index {
-  constructor() {
-    console.log('ready')
-  }
+const {EventEmitter} = require('events')
 
-  message(item) {
-    console.log(item)
+class Index extends EventEmitter {
+  constructor() {
+    super()
+    console.log('ready')
+    this.on('message', data => {
+      console.log(data)
+    })
   }
 }
 
