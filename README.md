@@ -2,7 +2,6 @@
 
 Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSupport) app by branch.
 
-
 ## Branches
 
 | Branch name                              | outline                                  |
@@ -40,10 +39,10 @@ Manages some packages for [LiveSupport](https://github.com/LiveSupportApp/LiveSu
 4. Push to the branch. `git push origin my-new-feature`
 5. Create a new Pull Request.
 
-## License
-
-[MIT License](https://github.com/LiveSupportApp/package/blob/master/LICENSE)
-
 ## Author
 
 [LiveSupportApp](https://github.com/LiveSupportApp)
+
+## License
+
+[MIT License](https://github.com/LiveSupportApp/package/blob/master/LICENSE)
